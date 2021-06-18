@@ -61,5 +61,5 @@ Here are step-by-step instructions to help you get started:
    @file:DependsOn("org.jetbrains.kotlinx:kotlin-deeplearning-api:[KOTLIN-DL-VERSION]")
 ```
 
-You are now all set! Next, you can start [building your first neural network](create_your_first_nn.md).
+You are now all set! Next, you can start [building your first neural network](create_your_first_nn.ipynb).
  
