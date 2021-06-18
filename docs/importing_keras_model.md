@@ -81,7 +81,7 @@ Trainable params: 122,570
 Non-trainable params: 0
 ```
 
-You can find a Jupyter notebook with the Python code used to train this model [here](CIFAR-10.ipynb). 
+You can find a Jupyter notebook with the Python code used to train this model [here](python_train_export_on_cifar_10.ipynb). 
 
 Once this model has been trained, it's important to save it properly so we can load it from KotlinDL:
 ```python
