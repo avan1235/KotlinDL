@@ -171,7 +171,7 @@ At this point, please feel free to check out the following tutorials we have pre
 - [Creating your first neural network](docs/create_your_first_nn.md)
 - [Training a model](docs/training_a_model.ipynb)
 - [Running inference with a trained model](docs/loading_trained_model_for_inference.ipynb)
-- [Importing a Keras model](docs/importing_keras_model.md) 
+- [Importing a Keras model](docs/importing_keras_model.ipynb) 
 - [Transfer learning](docs/transfer_learning.md)
 
 For more inspiration, take a look at the [code examples](examples) in this repo.
