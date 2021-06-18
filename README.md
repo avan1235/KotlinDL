@@ -168,11 +168,11 @@ You do not need to have any prior deep learning experience to start using Kotlin
 We are working on including extensive documentation to help you get started. 
 At this point, please feel free to check out the following tutorials we have prepared:
 - [Quick Start Guide](docs/quick_start_guide.md) 
-- [Creating your first neural network](docs/create_your_first_nn.md)
+- [Creating your first neural network](docs/create_your_first_nn.ipynb)
 - [Training a model](docs/training_a_model.ipynb)
 - [Running inference with a trained model](docs/loading_trained_model_for_inference.ipynb)
 - [Importing a Keras model](docs/importing_keras_model.ipynb) 
-- [Transfer learning](docs/transfer_learning.md)
+- [Transfer learning](docs/transfer_learning.ipynb)
 
 For more inspiration, take a look at the [code examples](examples) in this repo.
 

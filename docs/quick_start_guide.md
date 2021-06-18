@@ -40,7 +40,7 @@ You can use the Kotlin DL functionality in any existing Java project, even if yo
 Check out [these instructions](https://kotlinlang.org/docs/tutorials/mixing-java-kotlin-intellij.html#adding-kotlin-source-code-to-an-existing-java-project) 
 on how to add Kotlin code to your existing Java codebase. 
   
-That's it! Now you're ready to [build your first neural network](create_your_first_nn.md). 
+That's it! Now you're ready to [build your first neural network](create_your_first_nn.ipynb). 
 
 ## Working with Kotlin DL in a Jupyter Notebook
 If you want to experiment with Kotlin DL, and use it interactively, you can choose to work with it in a [Jupyter Notebook](https://jupyter.org). 
